@@ -28,7 +28,14 @@ This repository contains a **sample customer dataset** along with data cleaning,
   -  customers registration
   -  gender distribution
   -  Top customers by spend
-
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn, Plotly)
+- Python (Pandas, Matplotlib, Seaborn,jupyter Notebook,VS code, Plotly,ydata_profiling,pygwalker)
+
+  ## Key insights
+  -customer Demographics
+  -spending behaviours
+  -registration
+  -city wise insights
+  -data quality
+  
   
